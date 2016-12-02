@@ -87,3 +87,6 @@ int main() {
 		printf("\n");
 	}
 }
+
+// Time Complexity: O(n^2)
+// Space Complexity: O(digit_size * table_size)
